@@ -1,0 +1,12 @@
+
+section.slider> 
+
+	ul#autoWidth.cs-hidden>
+
+		4* li.item-a>
+
+			div.box>
+
+				div.slide-img> img + (div.overlay>a.buy-btn)
+
+				div.detail-box> (div.type>(a+span)) + a.price
